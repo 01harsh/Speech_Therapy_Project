@@ -15,6 +15,10 @@ Basic requirements to develop this project are as follows:-\
 • Microsoft Visual Studio 2010\
 • Recording Module\
 • Cool Edit 2000\
+![Screenshot 2023-08-31 225513](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/e624682f-0fc1-4413-8c7c-cc6900363a22)
+
+
+![image](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/7a08e767-aef3-4666-80ee-2933cad58950)
 
 #Future Improvement\
 Future improvements include development of this project using High Level
