@@ -3,6 +3,8 @@
 The main objective behind making this project was to be able to help the people who
 are having impaired speech and want to improve their speech .The project focuses on helping the patient to improve his speech by interacting with the system and
 based on the feedback it would be encourage the patient to do better in his improvement journey.It helps in handling the speech processing in a good way that the therapist can see the progress from distance and update the therapy based on the feedback.
+![Screenshot 2023-08-31 225513](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/e624682f-0fc1-4413-8c7c-cc6900363a22)
+![image](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/7a08e767-aef3-4666-80ee-2933cad58950)
 
 ##Model Description\
 We are using the famous Hidden Markov Model to store the speech properties. Hidden Markov Model is a probabilistic model which is used to explain or derive the probabilistic characteristic of any random process. When we apply log function to the spectral representation of the speech during reverse Fourier transform, it is converted to cepstrum whose coefficients are steady because of application of log function and it represents the speech in a nice manner. This representation can be used as the speech property. We take all such cepstral coefficients and build a code book which helps in generating the observation sequences. Code book contains 30 speech samples for each word. We use a feed-forward model for modeling speech samples. While speaking, we speak a word from start to end. So, there is no need for backward movement.   
@@ -15,10 +17,6 @@ Basic requirements to develop this project are as follows:-\
 • Microsoft Visual Studio 2010\
 • Recording Module\
 • Cool Edit 2000\
-![Screenshot 2023-08-31 225513](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/e624682f-0fc1-4413-8c7c-cc6900363a22)
-
-
-![image](https://github.com/01harsh/Speech_Therapy_Project/assets/60311625/7a08e767-aef3-4666-80ee-2933cad58950)
 
 #Future Improvement\
 Future improvements include development of this project using High Level
